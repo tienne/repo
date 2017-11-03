@@ -15,7 +15,7 @@ some additional information about the Korean translation.
 
 # 전자책 만들기
 
-페도라(16 이상)에서는 아래와 같이 할 수 있습니다.
+페도라(16 이상)에서는 아래와 같이 할 수 있습니다. 충돌을 발생시켜봅시다.
 
     $ yum install ruby calibre rubygems ruby-devel rubygem-ruby-debug rubygem-rdiscount
     $ ./makeebooks en  # mobi 파일 생성
